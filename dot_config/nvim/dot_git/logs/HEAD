@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 b5d0bc35c3b558e85516bed25706358198d6eaa4 maborosii <bonvovageonepiece@gmail.com> 1667443239 +0800	clone: from https://github.com/Zwlin98/nvim
+b5d0bc35c3b558e85516bed25706358198d6eaa4 8917257cf9644ab6fd4e61780e4e819abb6b6370 maborosii <bonvovageonepiece@gmail.com> 1667464433 +0800	commit: 1. mv resolved_c to server.c \n2. add lastplace plugin

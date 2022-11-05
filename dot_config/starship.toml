@@ -26,4 +26,4 @@ truncation_length=0
 python_binary = "python3"
 
 [golang]
-symbol = ""
+symbol = " "

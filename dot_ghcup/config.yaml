@@ -1,0 +1,30 @@
+cache: false
+downloader: Curl
+gpg-setting: GPGNone
+keep-dirs: Never
+key-bindings:
+  changelog:
+    KChar: c
+  down:
+    KDown: []
+  install:
+    KChar: i
+  quit:
+    KChar: q
+  set:
+    KChar: s
+  show-all:
+    KChar: a
+  show-all-tools:
+    KChar: t
+  uninstall:
+    KChar: u
+  up:
+    KUp: []
+meta-cache: 300
+no-network: false
+no-verify: false
+url-source:
+  OwnSource:
+  - Right: https://mirrors.ustc.edu.cn/ghcup/ghcup-metadata/ghcup-0.0.7.yaml
+verbose: false
